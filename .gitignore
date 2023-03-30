@@ -17,3 +17,8 @@
 # Auth token for tests
 .openai-token
 .idea
+
+.env
+
+go.work
+go.work.sum
